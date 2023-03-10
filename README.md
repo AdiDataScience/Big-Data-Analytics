@@ -217,7 +217,7 @@ geographical regions. Following is the basic Pyspark code for decision tree clas
 
 
 Use Case 2: Smart Repairing System
-![image](https://user-images.githubusercontent.com/120987787/224344232-41655f5e-229a-4c89-9126-59ca30a80f79.png)
+![image](https://user-images.githubusercontent.com/120987787/224344949-4e77c8a3-4ed0-4b76-b29f-ae4af19a2c91.png)
 Figure 3: Data Architecture of Smart Repairing System
 
 IoT, sensors in cars, and big data are examples of recent technologies that can be used for
