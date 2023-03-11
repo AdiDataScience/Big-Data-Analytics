@@ -1,4 +1,6 @@
 # Big-Data-Analytics
+Use Case 1: COVID-19 Monitoring Platform
+Use Case 2: Smart Repairing System
 
 Objectives: To understand the challenges and opportunities in dealing with Big Data using
 two use cases: 1. Covid-19 monitoring platform to predict next geographical area where
